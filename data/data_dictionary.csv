@@ -1,0 +1,36 @@
+column,description,source,year,unit,role,in_public_dataset,licence
+iso3,ISO 3166-1 alpha-3 country code,,,,identifier,yes,
+country_name,Country name,,,,identifier,yes,
+wb_income_group,World Bank income group (Ethiopia set to Low income),World Bank,2024,category,grouping,yes,CC BY 4.0
+philanthropy_musd_avg2020_2023,"Philanthropy Finance: private philanthropy to the biodiversity sector, average of the years reported",OECD private philanthropy for development (TPPP),2020-2023,USD million,outcome,yes,OECD terms (reuse with citation)
+vrod_retired_credits_2024_forestry,VCM Finance: nature-based carbon credits retired (Forestry & Land Use scope),Berkeley Voluntary Registry Offsets Database,2024,credits (tCO2e),outcome,yes,CC BY 4.0
+acled_index_level_2025,ACLED Conflict Index level,ACLED,Dec 2025,category,not used,no,ACLED EULA (no redistribution)
+acled_index_ranking_2025,ACLED Conflict Index ranking,ACLED,Dec 2025,rank,candidate (Supplementary Table 8),no,ACLED EULA (no redistribution)
+acled_danger_value_2025,"ACLED Conflict Index, Danger sub-index",ACLED,Dec 2025,index value,model,no,ACLED EULA (no redistribution)
+acled_fragmentation_value_2025,"ACLED Conflict Index, Fragmentation sub-index",ACLED,Dec 2025,index value,candidate (Supplementary Table 8),no,ACLED EULA (no redistribution)
+acled_deadliness_value_2025,"ACLED Conflict Index, Deadliness sub-index",ACLED,Dec 2025,index value,candidate (Supplementary Table 8),no,ACLED EULA (no redistribution)
+acled_diffusion_value_2025,"ACLED Conflict Index, Diffusion sub-index",ACLED,Dec 2025,index value,candidate (Supplementary Table 8),no,ACLED EULA (no redistribution)
+acled_events_latest_year,Year of the latest event count,ACLED,,year,not used,no,ACLED EULA (no redistribution)
+acled_events_latest,Political violence events in the latest year,ACLED,,count,not used,no,ACLED EULA (no redistribution)
+acled_events_2024,Political violence events in 2024,ACLED,2024,count,not used,no,ACLED EULA (no redistribution)
+gems_private_avg_default_rate,Default rate on private lending,Global Emerging Markets Risk Database (GEMS),1994-2024,proportion,candidate (Supplementary Table 8),no,European Investment Bank copyright (no open licence found)
+gems_private_n_defaults,"Number of defaults, private lending",Global Emerging Markets Risk Database (GEMS),1994-2024,count,not used,no,European Investment Bank copyright (no open licence found)
+gems_private_n_observations,"Number of observations, private lending",Global Emerging Markets Risk Database (GEMS),1994-2024,count,not used,no,European Investment Bank copyright (no open licence found)
+gems_public_avg_default_rate,Default rate on public lending,Global Emerging Markets Risk Database (GEMS),1994-2024,proportion,candidate (Supplementary Table 8),no,European Investment Bank copyright (no open licence found)
+gems_public_n_defaults,"Number of defaults, public lending",Global Emerging Markets Risk Database (GEMS),1994-2024,count,not used,no,European Investment Bank copyright (no open licence found)
+gems_public_n_observations,"Number of observations, public lending",Global Emerging Markets Risk Database (GEMS),1994-2024,count,not used,no,European Investment Bank copyright (no open licence found)
+gems_sovereign_default_rate,Sovereign Default Rate: share of observed country-years in default on sovereign and sovereign-guaranteed lending,Global Emerging Markets Risk Database (GEMS),1984-2024,proportion (0-1),model,no,European Investment Bank copyright (no open licence found)
+gems_sovereign_n_years_observed,"Years observed, sovereign lending",Global Emerging Markets Risk Database (GEMS),1984-2024,count,not used,no,European Investment Bank copyright (no open licence found)
+wgi_voice_accountability,Voice and Accountability,"World Bank, Worldwide Governance Indicators",2024,0-100,candidate (Supplementary Table 8),yes,CC BY 4.0
+wgi_political_stability,Political Stability and Absence of Violence/Terrorism,"World Bank, Worldwide Governance Indicators",2024,0-100,model,yes,CC BY 4.0
+wgi_govt_effectiveness,Government Effectiveness,"World Bank, Worldwide Governance Indicators",2024,0-100,candidate (Supplementary Table 8),yes,CC BY 4.0
+wgi_regulatory_quality,Regulatory Quality,"World Bank, Worldwide Governance Indicators",2024,0-100,model,yes,CC BY 4.0
+wgi_rule_of_law,Rule of Law,"World Bank, Worldwide Governance Indicators",2024,0-100,candidate (Supplementary Table 8),yes,CC BY 4.0
+wgi_control_corruption,Control of Corruption,"World Bank, Worldwide Governance Indicators",2024,0-100,model,yes,CC BY 4.0
+fx_volatility_stdpct_2015_2024,FX Volatility: standard deviation of the annual percentage change in the official exchange rate,"World Bank, World Development Indicators",2015-2024,percentage points,model,yes,CC BY 4.0
+ncs_potential_tco2e,"NCS Mitigation Potential (Kiribati, Marshall Islands and Tuvalu coded 0, not covered by the source)",Naturebase v3,latest estimate,tCO2e per year,model,yes,CC BY-NC-SA 4.0
+crdf_nbs_adaptation_musd_2024,"Public Finance: adaptation as principal or significant objective, restricted to nature-based purpose codes","OECD Climate-Related Development Finance, recipient perspective",2024,USD million,outcome,yes,OECD terms (reuse with citation)
+population_2023,"Total population, 1 July",UN World Population Prospects 2024,2023,people,model,yes,CC BY 3.0 IGO
+land_area_sqkm_2023,Land area,"World Bank, World Development Indicators",2023,square km,model,yes,CC BY 4.0
+population_density_2023,Population per square km (derived),derived,2023,people per square km,not used,yes,derived from UN WPP and World Bank
+gdp_per_capita_usd_2024,GDP per capita,"World Bank, World Development Indicators",2024,current USD,model,yes,CC BY 4.0
