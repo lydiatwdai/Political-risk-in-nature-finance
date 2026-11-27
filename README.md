@@ -12,7 +12,7 @@ Interview data are not part of this repository.
 ACLED and GEMS variables are not redistributed here:
 
 - **ACLED** (columns starting `acled_`): the end user licence agreement does not allow the data to be republished.
-  Download from https://acleddata.com under your own account.
+  Download from https://acleddata.com.
 - **GEMS** (columns starting `gems_`): European Investment Bank copyright, and no licence permitting redistribution
   was found. Download from https://www.gemsriskdatabase.org.
 
